@@ -1,0 +1,13 @@
+torch
+transformers
+chromadb
+gradio
+gtts
+speechrecognition
+scipy
+soundfile
+pdfplumber
+googlesearch-python
+requests
+beautifulsoup4
+lxml
